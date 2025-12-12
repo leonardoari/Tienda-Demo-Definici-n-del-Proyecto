@@ -19,7 +19,3 @@ https://leonardoari.github.io/tienda-demo-proyecto/
 - `app.js` — funciones de la app
 - `data.js` — productos
 
-## Cómo ejecutar el proyecto
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/leonardoari/Tienda-Demo-Definicion-del-Proyecto.git
